@@ -1,0 +1,34 @@
+# MediRisk Intelligence Platform
+# Python Dependencies
+
+# PySpark + Delta Lake
+pyspark==3.4.2
+delta-spark==2.4.0
+
+# Snowflake
+snowflake-snowpark-python==1.15.0
+snowflake-connector-python==3.7.0
+
+# Airflow (core + providers)
+apache-airflow==2.8.1
+apache-airflow-providers-snowflake==5.1.0
+apache-airflow-providers-apache-spark==4.3.0
+
+# Streamlit (local dev; in Snowflake it's pre-installed)
+streamlit==1.32.0
+altair==5.2.0
+
+# Data generation
+faker==23.3.0
+pandas==2.2.0
+pyarrow==14.0.2
+fastparquet==2023.10.1
+
+# Testing
+pytest==8.0.2
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
