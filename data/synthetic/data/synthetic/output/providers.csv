@@ -1,0 +1,501 @@
+provider_id,npi,name,specialty,state,zip_code,is_flagged,license_valid,joined_date
+c65abb1b-43e1-4a73-b5dc-f20ccbb4c4ee,8057244735,Mclaughlin LLC Medical Group,Psychiatry,NM,49962,False,True,2021-09-09
+571772af-2d0f-447a-be14-31ea432b0464,0199553513,Mcmahon LLC Medical Group,General Practice,VA,45942,False,True,2023-01-23
+7d904134-8bc5-495b-b7c9-db20e8a4655b,8788520467,Smith-Watson Medical Group,Emergency Medicine,OH,39395,False,True,2025-04-17
+e4d1e72e-78c5-4fba-9180-9ed292275900,5193427356,"Mercado, Perry and Marshall Medical Group",Cardiology,NM,05698,False,True,2017-06-03
+55881fdb-aa30-484c-98cf-795164ece981,1928804986,Wilson Inc Medical Group,Cardiology,VT,91968,False,True,2022-02-16
+998b44d9-e2ed-4d65-987b-be8d64a62b9c,0825235035,"Brown, Guerra and Gonzalez Medical Group",General Practice,MO,47447,True,False,2024-11-28
+650f1c45-2eb7-4824-a6f5-4f0010eff29d,6693859682,"Brown, Gallagher and Willis Medical Group",Psychiatry,PW,59785,False,True,2018-11-01
+a071dd53-556d-43b3-8247-c7a205731421,3083184293,Smith Group Medical Group,Internal Medicine,MP,58396,False,True,2022-07-28
+625078a1-f3cb-4bda-96dc-7a57ba1e6b14,1182996336,"Grant, Mata and Martin Medical Group",Cardiology,MN,69620,False,True,2023-06-25
+96d96095-c3e5-49ce-acaf-d101f65e5a2b,9649983858,"Lawrence, Kelly and Carpenter Medical Group",Psychiatry,PA,50095,False,True,2017-02-23
+9107a82d-638a-44e1-b5a6-f50431b0c2a9,6938247300,Salinas LLC Medical Group,General Practice,IA,51759,False,True,2020-07-01
+21dc792a-9c9d-4e7e-9dad-38c8de366f5e,2777120111,Pearson Inc Medical Group,General Practice,ND,03569,False,True,2021-05-23
+3e440f69-eac4-4e75-b2c7-91baeeb789cf,8503592951,Coleman-Murphy Medical Group,General Practice,WY,56274,False,True,2023-08-09
+f5e1473d-0bdd-481d-94c5-27f37e41acaa,0376094757,"Wall, Miller and Carr Medical Group",Orthopedics,MI,39250,False,True,2017-08-30
+529f68ce-4f71-4ba0-9968-d0c4d12c1ba7,0525971304,Olsen Ltd Medical Group,Psychiatry,AR,73342,False,True,2019-02-18
+d584da84-8e4e-4955-a8c8-a6698ef383ae,4431032360,"Norman, James and Martin Medical Group",Internal Medicine,NM,70284,False,True,2022-10-27
+b403418d-c452-4820-b51c-2c75351a501b,2883520320,Cooper-Munoz Medical Group,Oncology,UT,87599,False,True,2022-04-10
+40497f8a-4634-495d-ae37-aa9c0c0068b7,8962606323,Smith-Murphy Medical Group,Emergency Medicine,CT,80068,False,True,2025-03-29
+ba6ffea9-b49e-42cf-83c6-664ab8ec9e14,6068934664,Adams-Hopkins Medical Group,Psychiatry,AS,93700,False,True,2016-12-22
+9be0bc60-74da-4a01-a012-c4bb15e50c96,2898381278,Williams-Phelps Medical Group,Internal Medicine,CA,05967,False,True,2024-03-29
+03b6b3a5-87f5-4afa-a7c7-98049b92f1e1,5475685361,Anderson-Kramer Medical Group,Cardiology,AL,69220,False,True,2017-01-21
+a36814ef-d75e-4628-9fc8-7f2d759485d6,6967166461,"Young, Martinez and Waters Medical Group",Neurology,NE,39340,False,True,2020-02-25
+cf359e58-f525-4a38-9b7a-34cb10fce0c1,3533908896,"Oconnor, King and Harris Medical Group",Emergency Medicine,KY,61619,False,True,2019-07-29
+112f807f-b43e-42b9-bdb2-1fece5a217ba,8058916209,Washington PLC Medical Group,Psychiatry,MO,47482,False,True,2023-03-03
+8a3ae170-8e6e-4019-844c-1fa85539f277,7375769340,"Leon, Perez and David Medical Group",Emergency Medicine,IN,64844,False,True,2023-12-17
+78434b96-d6c9-4445-9c3e-85c9cae6ab79,6362565724,Turner-Murphy Medical Group,Orthopedics,PR,77489,False,True,2016-09-14
+b471ff31-2fe3-454f-bb97-358ecf3d6c00,5821323687,Blanchard Group Medical Group,Cardiology,IL,91100,False,True,2023-11-13
+6383f601-5877-4561-9259-3e14916bd055,3359591306,"Davis, Olson and Mitchell Medical Group",Neurology,CT,25369,False,True,2017-10-18
+ee5a8867-7434-470a-90b5-c44f2a0a0565,6613739087,Lynch LLC Medical Group,Neurology,SD,84224,False,True,2021-10-19
+557e3a2e-fdbc-44de-ad61-42dbc1c18935,0699466458,Larson Inc Medical Group,Cardiology,SD,94641,False,True,2020-04-25
+baf40573-efe0-4c9f-ad13-bf2e07a5f6d1,1961642095,"Bishop, Jackson and Vincent Medical Group",General Practice,NH,88079,False,True,2023-06-08
+bd546149-95ea-4f79-a280-e72629a3e73c,5098419584,"Sullivan, Romero and Charles Medical Group",Neurology,VI,50567,False,True,2018-06-12
+e3796dbb-26e5-4fbe-a752-7269961d2050,4877461356,Griffin Inc Medical Group,Internal Medicine,MO,47235,False,True,2024-01-25
+1d7d44a8-90bd-410d-a431-48b9d5281c30,9303939445,Navarro-Garcia Medical Group,Cardiology,NJ,43279,False,True,2023-08-09
+2f2efcf9-b53b-47ee-a318-b390bf21bcd5,9265880242,Ramos-Colon Medical Group,Psychiatry,AS,68719,False,True,2024-10-13
+e420e63c-64c3-48e4-99e5-49f536d22b66,4021373329,Jacobson-Lang Medical Group,Orthopedics,VT,14214,False,True,2022-03-22
+bfd700fc-a6c5-40f6-844c-987a35fc5bfe,3792490623,Santos-Rojas Medical Group,Oncology,MN,06151,False,True,2020-09-15
+8ed8b31a-98e6-4388-9f0f-fa6b31c48b2c,3346798789,Frank Ltd Medical Group,Cardiology,GU,39147,False,True,2019-02-07
+38725f0f-67f2-4d58-a95d-ef33d64eacca,1436674575,Smith Inc Medical Group,Neurology,OR,29847,False,True,2023-06-07
+35fb7585-ffb1-4126-bdbd-2a4741b5e095,6821874782,Miller Inc Medical Group,Internal Medicine,PW,85894,False,True,2017-12-14
+b978b392-5d71-4a39-93ea-e3ec6d82fb22,4632360687,Williams-Harrison Medical Group,Neurology,NE,93877,False,True,2021-02-25
+6f9d8b8e-3cb8-4c24-b824-feeb4379ff67,5646134398,Mckenzie-Hutchinson Medical Group,Neurology,AR,88772,False,True,2020-06-05
+a6945a79-1261-4499-b72a-89815cdb701f,6154809418,"Hanson, Anderson and Mathis Medical Group",Internal Medicine,CO,50057,False,True,2019-12-02
+9e1c0b35-7fba-44f0-a1bd-541607284825,3784832728,"Neal, Brown and Bowen Medical Group",Orthopedics,WI,91386,False,True,2020-01-29
+3e6f7901-1bd5-4d29-92a2-11a7fac4cae1,5682682527,Saunders Group Medical Group,Cardiology,GU,96072,False,True,2020-03-23
+3c9fe62e-125c-4fe5-9616-dc891c1fbfd0,0141915664,Russell and Sons Medical Group,Cardiology,MS,39543,False,True,2019-02-05
+60330d52-b29b-4d9e-a035-ccc52e5ab90a,9496268817,Henderson and Sons Medical Group,Neurology,VI,26149,False,True,2023-02-14
+14258a7c-27c2-4c92-9fa8-a16857af6a68,7190439360,Jones PLC Medical Group,Emergency Medicine,AZ,94219,True,True,2023-06-15
+f5613f66-e99d-423c-8e9d-08e4c254210b,0859666523,Wagner-Wiggins Medical Group,Emergency Medicine,OK,65325,True,True,2022-02-21
+0b853fdd-4e97-4fac-80c7-d6478304b30c,4030719133,"Garcia, Andrews and Payne Medical Group",Cardiology,SD,87816,False,True,2017-02-02
+f90ff1da-31a0-4477-895a-91c75d138a9c,8069171452,Andrade and Sons Medical Group,Neurology,PW,08514,False,True,2017-01-24
+fdc69e90-0e2b-4783-abab-42a8a26867f2,7859734555,"Munoz, Beasley and Lee Medical Group",Internal Medicine,NJ,56706,False,True,2024-06-10
+37a9ea53-bdea-40f6-a3c4-11a86e468a55,1740246517,Owens-Wilson Medical Group,General Practice,CT,35686,False,True,2018-02-25
+4d1ce8d6-48f1-43fb-b519-da00b4b369e5,3019155272,Nunez-Stone Medical Group,Psychiatry,OR,39649,False,True,2020-07-16
+46e166ee-883c-4c27-a51b-0af0d5888a57,0243678450,"Soto, Hawkins and Lopez Medical Group",Internal Medicine,IA,72224,False,True,2022-07-15
+b8d69b55-192b-4186-99e9-106867d2c209,8765757129,"Graves, Barker and Porter Medical Group",Internal Medicine,MO,81895,False,True,2022-01-05
+ae79c68e-97b4-4f1c-a6cb-aeebb64ec6a1,8586893259,Beck-Miller Medical Group,Neurology,ID,08051,False,True,2019-11-16
+7fc0bae0-7767-440f-a88f-794e5262d737,7064411283,"Avila, Miller and Perez Medical Group",Orthopedics,VA,49403,False,True,2018-08-09
+5e7cb7a3-33f7-4031-877d-57f19d9cb64c,9820712585,Burnett and Sons Medical Group,Emergency Medicine,DE,50767,False,True,2020-03-15
+09703285-ac33-454b-afce-37d889e50e51,8186274263,"Henderson, King and Wood Medical Group",Cardiology,AK,00877,False,True,2019-02-01
+97852457-4f23-401a-a6f3-158243268c0f,7745101154,"Carroll, Reynolds and Munoz Medical Group",Neurology,AS,10713,False,True,2024-03-30
+52c2b51d-f176-41a8-bd89-7e8053e3e14b,4050815227,"Davis, Morgan and Wallace Medical Group",Neurology,MN,26939,False,True,2021-05-04
+d4d5558a-585f-4858-b45d-2c836d000410,2265306773,Tran-Roberson Medical Group,General Practice,FL,54313,False,True,2021-06-08
+0071e215-08d4-45f4-b5e0-90df952235d9,9511463210,"Wells, Walsh and Yates Medical Group",Neurology,MO,40860,False,True,2020-01-02
+95bdb1d5-f2e0-4be7-be2b-d825084cd0ee,9120248798,"Adams, Campbell and Martinez Medical Group",Cardiology,KS,91995,False,True,2017-10-01
+e8ede095-4acc-4e7f-93ed-0abc16213f3d,4156979846,"Cohen, Farrell and Baird Medical Group",Internal Medicine,MS,33593,False,True,2022-07-16
+722b1616-3aa3-4580-aba6-d2c8606d5288,8497212653,Meyer-Murray Medical Group,Cardiology,NJ,05711,False,True,2023-10-30
+f74c5af2-0694-4e8b-8571-cc3d13d11a12,4064900159,Chavez Inc Medical Group,Orthopedics,SC,97264,False,True,2024-04-21
+ddb8f8ba-1a0d-42a1-a6bc-790979fe9835,8839379473,Richardson Group Medical Group,Oncology,CA,29775,False,True,2023-12-10
+46c2e9fe-efac-4f73-89af-b32987305ae7,6864693170,Smith-Smith Medical Group,Psychiatry,IA,75360,False,True,2022-10-23
+78bbb71d-3e9d-44b4-9cf0-d42bd8666cb9,2289652578,"Williams, Ayala and Lynch Medical Group",Orthopedics,NY,53457,False,True,2020-03-09
+95602c29-04b6-433b-8cf4-25a4b6bcbcc1,4628051896,"Underwood, Costa and Mack Medical Group",Cardiology,PA,48112,False,True,2020-09-17
+a907e212-2990-45c3-af93-31c813392d8b,6934572076,"Ibarra, Mack and Williams Medical Group",Emergency Medicine,NJ,08189,False,True,2016-08-26
+7ce9d48f-0548-4d85-a523-32166a837112,0883286822,"Johnson, Howard and Smith Medical Group",Neurology,WV,72122,False,True,2021-07-08
+11aa7426-8da0-4416-ab7b-88479ff8b101,6733935529,Perez-Garcia Medical Group,Cardiology,ME,33275,False,True,2023-12-26
+8c8136b7-420e-461d-a9a6-4bc19bf8dcc6,6411901250,Hill-Davis Medical Group,Psychiatry,IN,38814,False,True,2018-09-12
+095980c9-3456-42d5-9c0e-d6eda0d7a404,5510326661,"Andrade, Powell and Hall Medical Group",Oncology,UT,03341,False,True,2017-08-28
+672a2982-1e9e-4e60-a60d-01d8008282d5,2986256334,Mcmahon-Mahoney Medical Group,Emergency Medicine,OH,65324,False,True,2022-04-21
+d1f72a1e-b34b-48f6-a311-1c658ef933af,2264866285,Wheeler-Richards Medical Group,General Practice,WY,28081,False,True,2022-06-06
+e9dc7562-7cd1-4c59-998d-1618e0a586c8,6890731964,"Martin, Schmidt and Wagner Medical Group",Orthopedics,OH,78056,False,True,2019-06-27
+56720a30-d7aa-4b13-8c4a-b5ac427429e1,8031403311,Keller LLC Medical Group,Oncology,PA,11295,False,True,2018-04-06
+a57604ef-f800-466e-8c62-7c829fdf1e53,0852992678,Mays Group Medical Group,General Practice,TX,67956,False,True,2022-04-11
+ff7caf37-2173-425c-aa1e-f4e933e37e71,8658614144,Harris PLC Medical Group,Emergency Medicine,TX,05772,False,True,2022-12-29
+b310a3a8-0034-4a18-b4c2-9da3ac8daf97,6057222820,Hall Group Medical Group,Emergency Medicine,MS,39209,False,True,2022-04-24
+dc8e0196-92c8-4718-8b89-6bb677193946,7490880702,"Jenkins, Lopez and Gonzales Medical Group",Emergency Medicine,VI,61038,False,True,2017-09-13
+9971f8e5-47ba-4504-b3cc-00d62d36ae1d,8112465018,Thomas Ltd Medical Group,General Practice,ID,11748,False,True,2022-09-13
+64179bcb-a165-4584-9e05-52f1b80b6c27,6218718886,Mathis-Macdonald Medical Group,Orthopedics,TX,76046,False,True,2019-04-13
+492ed6da-204a-454a-ae24-e9a9b6b8b6fe,5800739995,Rodriguez-Yang Medical Group,Oncology,LA,05566,False,True,2023-07-19
+4922f4b1-c3ee-4a21-870b-5c4db5f0e306,1241264296,"Lee, Kelley and Bailey Medical Group",Cardiology,MT,46976,False,True,2017-09-26
+18ce8297-74b1-4c22-9be2-338f57d049dc,3749523869,Santiago and Sons Medical Group,Psychiatry,WY,66759,False,True,2020-02-03
+a8c3887d-5251-42b3-a20e-ca97f7797fbc,8995601809,Thompson PLC Medical Group,Psychiatry,TN,39071,False,True,2016-06-22
+30c7e046-b5f4-4357-9f6c-23642ef4bf3b,4821003300,"Gill, Andrews and Williams Medical Group",Orthopedics,PW,34458,False,True,2025-01-31
+db61edf0-1c1e-467c-970c-90fbca5f8380,2324735351,"Melton, Gates and Smith Medical Group",Orthopedics,NV,02555,False,True,2019-09-26
+f6d19fda-ddfb-447d-9d8d-a9a2c5897842,7639059107,Waters-Landry Medical Group,General Practice,MO,85048,False,True,2021-02-02
+62ad0c2b-cd79-417c-a1dc-b1ee1cdc4a57,8233189596,Mitchell-Mckee Medical Group,Orthopedics,VI,57538,False,True,2020-04-01
+92c1b782-f7b7-4b19-aad5-7bd582bb4bc5,8709787247,Castro-Browning Medical Group,Emergency Medicine,ND,09651,False,True,2018-11-18
+4d15e1aa-60d7-48b6-8936-9d62a55099d3,5555142445,Molina-Barnett Medical Group,General Practice,SC,52501,False,True,2021-05-21
+f2877432-ae17-42cc-a9c4-325538cf383c,3773805356,Tran-Nguyen Medical Group,Internal Medicine,FL,82268,False,True,2020-02-16
+e8c3c813-800a-4236-a927-f2ab3db624c3,7320173057,"Gibson, Barnes and Gibson Medical Group",Oncology,IA,72378,False,True,2023-01-14
+1dd55f05-358f-435e-83af-45b79026350d,7443074256,Maxwell PLC Medical Group,General Practice,ME,68854,False,True,2017-09-20
+5262f70f-60b2-4ea1-a0b6-714dd4b43797,4811946363,Clark Group Medical Group,Internal Medicine,NV,70379,False,True,2021-12-26
+b305476d-cc56-44c2-a85f-f2fc2ecbabf4,7200972572,"Crawford, Myers and Morris Medical Group",Cardiology,CA,23467,False,True,2016-06-28
+1a66f7ec-9b91-4503-8e71-55f5364d5515,9984722893,Fitzgerald and Sons Medical Group,Internal Medicine,HI,13391,False,True,2022-11-04
+fcbe05c4-7375-45e3-b23b-deb9e532f0e0,7895007137,Hunt and Sons Medical Group,Orthopedics,SC,72281,False,True,2020-08-23
+afa34f1e-f455-492d-a041-21463ab67226,7719723434,"Nguyen, Rodriguez and Graham Medical Group",Emergency Medicine,TN,02544,False,True,2016-10-25
+66d6d15f-f6d1-4fb7-8078-e587fdb63611,1165261378,"Mcintosh, Gonzales and Dickerson Medical Group",Oncology,WY,65366,False,True,2023-09-27
+94b01e57-316e-4fe0-8b45-e81be47786dd,2322242456,Rasmussen-Baldwin Medical Group,Psychiatry,AS,12920,False,True,2022-10-17
+8897c292-563e-4374-ac67-23fc40c59692,2944762783,Newman Inc Medical Group,Internal Medicine,PW,62650,False,True,2021-10-06
+5cf0a751-cc04-4402-a41d-93f63572f2c3,5421586231,Pearson Inc Medical Group,Orthopedics,MI,12315,False,True,2023-10-09
+076db35e-e656-464c-9d35-1019239a4b66,8629898421,"Salazar, Gay and Perez Medical Group",General Practice,MD,89456,False,True,2024-04-12
+42de9bb5-47c9-4caf-a348-5b645d1a37c6,8348906900,Guerra-Hebert Medical Group,Psychiatry,ME,26407,False,True,2019-02-20
+0bed2adc-8bd4-449f-9379-7f2c546bdb8b,6646811721,Guzman and Sons Medical Group,Cardiology,NY,72966,False,True,2023-08-02
+73c2031d-48d1-46e5-8f63-e15904de4772,3243084999,Kelly-Phillips Medical Group,Emergency Medicine,MN,70311,False,True,2023-09-08
+50fd642d-3060-483b-bb39-d6832ab97b93,4771634902,Fields Inc Medical Group,Psychiatry,PW,52188,False,True,2025-05-16
+24ca73d8-88b5-4970-940b-b4b621527d44,8920931472,"Hayes, Adams and Kerr Medical Group",General Practice,VI,92511,False,True,2022-01-20
+733bfdae-1ac9-41b3-add9-c1f6c2835f20,0405667522,"Kaufman, Davis and Price Medical Group",Oncology,AZ,63199,False,True,2023-08-15
+7d707fae-2752-457b-a016-9051a0728390,4637141694,Brown-Salazar Medical Group,Oncology,AL,70825,False,True,2023-08-28
+816fcf85-f221-4fcc-be6f-a295f81cffc0,4112569664,Robertson LLC Medical Group,Orthopedics,MA,62464,False,True,2020-09-29
+a90e3a71-39bc-446a-8eb3-0ec63ed06d7f,2382964470,Humphrey Group Medical Group,Oncology,AR,32391,False,True,2018-07-02
+d41f39a5-3d77-4bc8-94df-9d879f5baa99,4787659505,Wood-Rivas Medical Group,Orthopedics,RI,58976,False,True,2017-12-01
+98acce8f-778c-414b-a0ed-5e6420416027,7661180032,"Bell, Barnett and Wright Medical Group",Orthopedics,WY,53683,False,True,2020-08-19
+f76f49b3-0f56-43e0-a6f1-e2217d647f96,7823675372,Hernandez Group Medical Group,General Practice,UT,88728,True,True,2022-12-02
+c7376369-3882-4a2e-a784-0d2f3e5439c4,6856067044,"Bradley, Miller and Armstrong Medical Group",Cardiology,KY,64531,False,True,2018-10-28
+5e85004d-6ae3-4d36-9cdc-5f8ce7c01a40,7048855163,Lewis-Estes Medical Group,Orthopedics,MI,45570,False,True,2019-08-08
+0d8460a0-1af9-48eb-b1c2-859d9ba8f335,9369238104,"Cowan, Jackson and Underwood Medical Group",Psychiatry,DC,05354,True,False,2023-05-29
+1f376d0f-f352-48f2-8c43-c3c7c171bb0c,2378919700,"Vaughn, Burns and Anderson Medical Group",Orthopedics,LA,23689,True,True,2018-06-20
+f6629ac0-b829-4ca9-b047-bf2daf608c60,2467144531,Hall Ltd Medical Group,Oncology,MH,51350,False,True,2024-04-07
+91ba8bd5-53ef-48c0-bb0d-deaf4cf0ce04,8002706132,Burns Inc Medical Group,Orthopedics,WA,69722,False,True,2018-12-09
+a42c76f1-83ba-4d3b-9195-ec635e362595,4141720763,"Nichols, Kelly and Perez Medical Group",Neurology,WY,28703,False,True,2022-11-07
+d11963a6-a947-47b7-8cac-fbe3a5dc52a3,7579736684,"Perry, Weaver and Brooks Medical Group",Cardiology,CA,73471,False,True,2019-09-19
+1097c690-14a2-4030-a25c-4de478e0f145,7586463893,Robertson-Huber Medical Group,General Practice,UT,49464,False,True,2024-08-21
+9fd55fc2-8bd7-4afd-b5ad-73644e15dc9b,0989098079,Smith and Sons Medical Group,Psychiatry,WY,43726,False,True,2024-02-11
+c2b5b28f-9df5-4c8e-b1a3-05a069165559,7850979131,"Stephens, Sullivan and Roberts Medical Group",Internal Medicine,VT,97022,False,True,2022-01-24
+79f3858e-6c90-4f71-aa85-61c3bc0fa596,2878816509,Davis-Madden Medical Group,Cardiology,ID,51852,False,True,2020-04-28
+9858e63b-2749-45f9-b827-914ce76f374d,0232204810,Miller-Tucker Medical Group,Orthopedics,MN,01115,False,True,2018-12-30
+b47b8cf4-40c8-4a12-af08-f1036190a541,8833779928,Fernandez and Sons Medical Group,Oncology,DE,35961,False,True,2023-10-26
+98fcb20a-426a-42b9-adee-bfd0d5a4c4fd,7883743821,Tapia-Bowman Medical Group,Psychiatry,SC,89302,False,True,2017-03-07
+0377c684-7156-404c-b387-ab2154974fdd,8828533939,Edwards Inc Medical Group,Oncology,NJ,02092,False,True,2017-12-27
+fb748f20-ab79-4507-874b-34569364d3c3,7577925577,Hall Inc Medical Group,Neurology,MD,75960,False,True,2024-10-09
+6fbbe077-11b2-414a-9e8a-946f6f9a3948,1686426175,"Burns, Hernandez and Bright Medical Group",Internal Medicine,WA,64590,False,True,2023-11-04
+3bfcaf88-61af-4267-ae78-317c282942f3,3049893244,"Adams, Wright and Turner Medical Group",Orthopedics,MN,75244,False,True,2017-01-27
+1664010f-fba6-48b9-b903-5b4065bb4bac,7875596160,Avery Group Medical Group,Orthopedics,WA,91586,False,True,2025-04-23
+c2e47fa2-5bb1-4465-aa11-026c49d7d778,2518702195,Kim-Mills Medical Group,Emergency Medicine,AL,47584,False,True,2019-11-12
+8c5e1dee-0d37-4e8d-9958-f427376478fb,6973561603,Hopkins-Gamble Medical Group,Internal Medicine,NE,18410,False,True,2023-10-22
+3fa27918-ac96-4830-80d9-3337191498d8,8513713385,Yates-Dillon Medical Group,Internal Medicine,AL,57793,False,True,2021-05-10
+df1ced97-c920-4676-93ca-1afe1e6bcac8,1652652969,Robinson Ltd Medical Group,Emergency Medicine,MH,37450,False,True,2017-03-17
+11bda2c8-a784-4b12-8a7e-30af44863a21,3809274107,"Hahn, Morris and Castro Medical Group",Psychiatry,VI,81416,False,True,2017-04-30
+e286046b-f4d5-4642-9e40-4190ffc945b2,5067339979,"Rogers, Adams and Glover Medical Group",Internal Medicine,HI,75619,False,True,2019-03-22
+6944a2cc-8219-458f-b9c5-d85170fad654,8412255119,Alexander PLC Medical Group,Internal Medicine,LA,74833,False,True,2023-03-20
+93c7356f-5d1b-45a8-893b-953eeb49ce42,1940392922,Thompson and Sons Medical Group,General Practice,NY,13915,False,True,2021-07-23
+d96482b2-bf18-435c-8d26-9bece5044911,8691042414,"Anderson, Williams and Kelley Medical Group",Internal Medicine,AR,44699,False,True,2024-11-22
+f9368e0c-e53e-40da-8c8b-95e3b9bab667,3500959843,"Mccarthy, Barnett and Ferguson Medical Group",Oncology,TN,33206,False,True,2023-01-24
+34c2ea0b-2cd4-43b6-b0bb-61ddbadd13dd,5159149124,Williams-Williams Medical Group,Orthopedics,MP,70954,False,True,2023-08-20
+34d075c5-996d-484f-be66-725b716536a4,7831738489,"Lewis, Medina and Owens Medical Group",Psychiatry,NY,31475,False,True,2022-03-25
+559fe328-a0d6-4625-b94c-8111ca25716b,7892727169,Lara-Phillips Medical Group,Orthopedics,PA,58804,False,True,2023-02-02
+64e89133-5eae-410b-8ca3-9dde76d391f7,6622409319,Barber-Carter Medical Group,Internal Medicine,WV,15431,False,True,2018-08-14
+78b471cb-cdc3-4b09-a2bf-d3f5094e654b,9175949528,Walker Group Medical Group,General Practice,NH,64304,False,True,2022-07-11
+d721b072-317f-4652-a1e8-2fc4a86bd548,1560290668,"Dorsey, Lee and Zimmerman Medical Group",Emergency Medicine,GU,57521,False,True,2019-04-03
+bf7f89a6-640d-4850-89d7-d0529bf19bf2,2291489430,Reyes Inc Medical Group,Cardiology,MN,99896,False,True,2020-08-16
+b2e393a4-7b81-4599-82d8-b320446dc740,0987956376,Rice-Duke Medical Group,Cardiology,UT,45925,False,True,2022-09-14
+16f7a403-b231-49ca-9b07-68f457d410b9,6556422875,Phillips PLC Medical Group,Cardiology,NH,71928,False,True,2019-09-16
+271e9c10-165e-4c9e-9689-99ef3ffda000,9295448835,"Ford, Hayes and Smith Medical Group",Emergency Medicine,UT,22779,False,True,2018-01-18
+0c612ae2-5c58-4ef3-98bb-2d9c6e309a6f,8343759071,Perez-Bailey Medical Group,General Practice,VI,15591,False,True,2019-05-31
+63ff4303-a52f-40ca-bcdc-f855c7641dfb,4420521748,Harrison Group Medical Group,General Practice,VA,10187,False,True,2019-12-16
+9248b6be-0a02-4eba-aacc-2be7b02e0e46,0742884441,"Guzman, Chambers and Rangel Medical Group",Oncology,KY,46207,False,True,2023-08-05
+851d79d8-1885-4473-ad1a-6c5a71a73b19,5870117656,"Sheppard, Anderson and Ray Medical Group",Emergency Medicine,MS,95413,False,True,2022-07-31
+a5bab40e-2962-4be9-9bb7-39416b294ebd,1064856810,Thomas LLC Medical Group,Oncology,ND,27677,False,True,2024-05-21
+62d1caec-dfaf-456f-8305-317cdeae0e4b,8395112850,Anderson and Sons Medical Group,Orthopedics,NE,86564,False,True,2024-04-02
+9e0930c9-ed4a-4c71-b249-033956b9f4a8,1658359334,Williams LLC Medical Group,General Practice,WA,61406,False,True,2016-12-25
+d7f7ec1e-1c67-482b-9b78-30f5c64e6386,7872715426,Campbell-Lopez Medical Group,Neurology,NM,49087,False,True,2019-09-13
+989b913d-9aaa-4940-a16c-cb5258558c81,0889072114,Douglas Inc Medical Group,General Practice,KS,98473,False,True,2018-06-16
+63e6ef2d-cd1f-43b2-a832-257bd5d66878,8612970534,"Walters, Bell and Wolf Medical Group",Cardiology,ID,14070,False,True,2021-10-21
+7bb78726-0b59-4f6b-929c-830471bd6943,1542135284,Patterson-Murillo Medical Group,Neurology,VI,94022,False,True,2025-03-12
+1b41e182-3f06-415a-90ad-781119f76443,1296071009,Burns-Hull Medical Group,Emergency Medicine,MN,87841,False,True,2022-06-18
+ae6a1072-f337-4ef3-a6c2-972f461ed76e,7168737875,Davis-Walker Medical Group,Emergency Medicine,NJ,59289,True,True,2022-10-14
+4d702df1-d48f-4e24-a44e-ae3b6ada7354,3620956139,Martin Ltd Medical Group,Orthopedics,KY,42488,False,True,2021-02-15
+08a6d4a3-07a6-4057-b00f-d86f3d950137,2985418424,Miles-Johnson Medical Group,Oncology,GU,31335,False,True,2018-04-17
+0b934534-3f12-47ca-8113-4fbc7b6db6eb,6555738210,Ward-Brooks Medical Group,Orthopedics,MP,16704,False,True,2024-07-29
+89e6ced4-9a2a-4c08-8c99-d87398c0f622,7538808962,Yates-Owen Medical Group,Emergency Medicine,UT,77739,False,True,2022-07-19
+8a7e8f8a-4c8a-492f-8519-4dc72b5c2ebd,1322827701,Wood-Morgan Medical Group,Cardiology,AK,51587,False,True,2024-10-11
+fd57fb98-0203-44d8-bcca-630ff6916b3f,5169199641,Pace-Cooper Medical Group,General Practice,KY,02227,False,True,2019-11-17
+4af4d17b-6198-4b39-a8a1-d0978335d114,4904920569,"Gordon, Hill and Petty Medical Group",Neurology,SC,52250,False,True,2025-03-26
+3baac230-a3a8-42fb-9a53-de37bfc0cb4d,0584799468,"Nash, Smith and French Medical Group",Neurology,MO,11234,False,True,2018-09-26
+5fe86428-d1d4-4e5e-a765-ce58279551f1,2009466351,Wagner PLC Medical Group,Orthopedics,NJ,13779,False,True,2020-08-30
+dbcb5ee6-cb3e-48be-b982-1e65daf07ac2,7560951397,Ramirez Group Medical Group,Cardiology,IN,91706,False,True,2022-03-20
+61609b62-2fc8-4556-8edb-c8d8d1d31655,8353659253,Brewer Group Medical Group,Emergency Medicine,OH,93699,False,True,2017-04-07
+13f53758-8412-4bed-bedb-124d34ee32b1,2789118112,Jackson LLC Medical Group,Orthopedics,GU,24273,False,True,2024-12-20
+cb3977da-91aa-446d-a605-b6b3a4352b51,7046149990,Stewart-Clark Medical Group,Cardiology,ME,59671,False,True,2024-09-27
+e3de6608-cfeb-48a0-b190-55d46413be60,6320596067,Garner Ltd Medical Group,Internal Medicine,LA,52482,False,True,2017-04-05
+a76879f3-f23b-4e75-b9ea-d525f6f7567b,5885825887,Santana LLC Medical Group,Orthopedics,ME,39947,False,True,2023-09-29
+5a38d542-eed8-4cb8-a259-fec6c0d721f1,1079732398,"Alvarez, Tran and Merritt Medical Group",Internal Medicine,AK,47987,False,True,2018-08-31
+e6403ea4-6c4a-4dbc-98f7-77609eaeaf1e,4145146927,Nash-Cunningham Medical Group,Orthopedics,PR,44569,True,True,2016-11-11
+e35c3ebb-c595-47d4-82a7-df1fc40debd9,9883206639,Anderson-Ramirez Medical Group,Emergency Medicine,GA,17188,False,True,2020-01-11
+3467a2d1-f5cc-40a5-aee0-da84815925a8,2152412265,"Leblanc, Pitts and Rose Medical Group",Psychiatry,FM,45390,True,False,2018-11-22
+bd13507a-0895-4cd3-8c1a-8cfba6b993b7,4719417219,Reed-Kim Medical Group,Emergency Medicine,IN,05872,False,True,2023-12-04
+b8abd777-67ef-42c4-aacf-725969e24808,9054161168,Sullivan-Lopez Medical Group,Oncology,AS,62907,False,True,2022-12-09
+c8c26369-a6e3-41b2-a51d-326faf458c09,3723720149,Small Inc Medical Group,Neurology,TN,83984,False,True,2020-06-11
+29e6934f-a848-4ba9-b956-effb5ea0013d,2828578976,Hogan-Singh Medical Group,Internal Medicine,VT,99451,False,True,2023-07-29
+6dba8738-84ed-45ef-aaaa-c6fb7e86e505,9000203756,King LLC Medical Group,Oncology,NH,68657,False,True,2017-01-22
+42406ab5-b253-4bcf-a66e-00ca9bdbbd5b,7670472671,Thompson-Lin Medical Group,Psychiatry,NV,16615,False,True,2022-07-02
+a2c986a1-fa05-4552-86cb-6f506042e27b,3127211091,Jackson-Cook Medical Group,Psychiatry,MN,85038,False,True,2020-09-02
+7ca6c99f-bfb1-472d-b9eb-c8641fe937ef,7272631802,"Watkins, Bryan and Turner Medical Group",Oncology,OK,96851,False,True,2023-05-11
+6ef45ff2-c17f-42f9-8c20-4781b1bb0ccc,1803596494,Bishop-Johnson Medical Group,Orthopedics,MD,83395,False,True,2024-07-12
+c91deb56-79d2-4ac1-b294-a2b392a2675f,8445784542,Glenn Ltd Medical Group,Cardiology,UT,12467,False,True,2022-04-24
+5c0e2112-ae70-4167-a3ef-f11e71baefba,0027848416,Patterson LLC Medical Group,Emergency Medicine,WV,11083,False,True,2020-08-04
+7e630aa5-82b1-4a9d-8a1b-edaafd24dfb9,2268412786,"Johnson, Kim and Tanner Medical Group",Emergency Medicine,CT,05917,False,True,2019-09-29
+c652ae8f-b6e7-4b1f-b9bf-fa569a1d2cf9,6966639844,Smith Ltd Medical Group,Oncology,NV,81485,False,True,2024-10-15
+ed73955e-90b4-4f48-859b-977be7bdfebc,7041542588,Simon Ltd Medical Group,Orthopedics,HI,09743,False,True,2023-09-23
+5a9c099c-9ec7-4a32-b9f3-1202cc89efd9,7341100805,Gonzales-Smith Medical Group,Psychiatry,MH,20159,False,True,2018-05-18
+40264f38-6da2-42d5-8af1-108d934c3b36,6738783672,Wright and Sons Medical Group,Psychiatry,MS,81686,False,True,2023-05-29
+c27624f0-4974-43b7-aad8-c3aedc921fb6,9952328696,"Levy, Garcia and Davis Medical Group",Internal Medicine,AZ,69311,False,True,2023-07-08
+3f06c2a7-a508-4c87-93f5-877abc448cde,8326683280,Martinez PLC Medical Group,General Practice,NY,78367,False,True,2022-12-31
+8afbf412-df12-4ae5-b7c8-550ab0fbe417,3986599887,Jacobs and Sons Medical Group,Oncology,NY,73704,False,True,2022-01-20
+f438bffd-2413-44dd-955c-f901b9ccdf67,4797546389,"Moore, Brown and Thomas Medical Group",Cardiology,AZ,51749,False,True,2023-01-10
+5c1d1010-6948-4f15-b861-75db565ab9e7,7928353666,"Mack, Smith and Obrien Medical Group",Emergency Medicine,MP,55652,False,True,2025-03-04
+6831c5e6-6acf-4ca2-93e2-295b77d1257b,6243114449,"Kirby, Reyes and Young Medical Group",Neurology,DC,74477,False,True,2022-04-04
+b25b237c-def7-4060-a8f1-fe399c948682,1796680557,Vance Inc Medical Group,Neurology,FL,29806,False,True,2021-03-30
+7eb777c7-dc9b-4279-bb18-69a851be3ca3,3664868842,Mccarthy Inc Medical Group,Oncology,OR,34651,False,True,2024-08-29
+e8f3804a-d181-4724-929c-11455e37df06,7903646217,"Steele, Torres and Meyer Medical Group",Internal Medicine,WY,48752,False,True,2024-07-30
+196df9c8-a116-48e4-a154-502c38ee339b,2086824246,"Tucker, Jones and Fuentes Medical Group",Internal Medicine,FL,74350,False,True,2017-04-14
+d3804f1d-d1a7-406c-ac03-a98bed7a977e,4334005367,Young PLC Medical Group,General Practice,LA,85763,False,True,2017-10-04
+2ae871eb-e04d-400b-b769-89f621e10a7d,8458722957,Hernandez-Brooks Medical Group,Cardiology,CO,22270,False,True,2019-11-21
+6e0f9a49-66c4-471b-b2d5-841702f8eef5,2417541321,"Bell, Hayes and Montoya Medical Group",Cardiology,NE,27691,True,True,2017-03-10
+792cd2d9-58dc-49c0-b48b-397288b45dc3,5730985709,Buck Group Medical Group,General Practice,OH,48799,False,True,2021-07-11
+3a31b902-f112-46fe-b74b-4fe41ee15bf1,0838600178,Walker-Cruz Medical Group,Psychiatry,IN,11765,False,True,2022-10-12
+e246c42b-1207-4ca1-b770-c8b26ae99e44,5163927297,"Mccormick, Stevens and Williams Medical Group",Emergency Medicine,IN,22212,False,True,2021-03-14
+38bce7a0-6e1f-463f-927d-979add6a35cb,4247003118,"Burton, Smith and Ross Medical Group",Neurology,IA,76999,False,True,2022-11-11
+3476a0d3-dd8e-4b4f-9368-f1f07859aa95,4094439188,Boyle Inc Medical Group,Emergency Medicine,CA,81525,False,True,2023-11-26
+7705f9e4-a360-488a-804d-7d2806f9e4d8,0207549061,Hull-Carlson Medical Group,Orthopedics,UT,49933,False,True,2025-03-17
+521a7858-9637-42cd-8d55-03b92876f015,6166563946,Jordan LLC Medical Group,Oncology,NC,35994,False,True,2021-02-27
+cabcab95-2676-4df0-a636-abb67217bc26,9671593266,"Fitzgerald, Kirby and Hill Medical Group",Neurology,MA,04284,False,True,2022-09-05
+73123ddd-100d-4052-9795-b686b0c8f062,8167713613,"Carr, Torres and Martinez Medical Group",General Practice,WA,03913,False,True,2024-09-23
+cadda97b-70cd-46fc-846b-f57dc525dad5,4821431732,"Malone, Smith and Reed Medical Group",Cardiology,DE,94966,False,True,2019-08-13
+af1157cc-2d3e-4041-8c1e-666b43c48c4d,7690162042,Hess-Thornton Medical Group,Oncology,NE,69418,False,True,2021-06-25
+e476e4a6-23ac-4dc2-9bb0-a4a48711126b,3185503833,Blake PLC Medical Group,Psychiatry,MI,30511,False,True,2024-04-06
+ceec83af-2d5f-4a18-86b2-181854d090cc,0875188495,"Hawkins, Gutierrez and Poole Medical Group",Cardiology,MN,98260,False,True,2023-01-02
+cb403a32-1c85-4568-9f8d-e4dbb56b2521,4088866167,"Peterson, Peterson and Wilson Medical Group",Emergency Medicine,NH,31194,False,True,2017-12-10
+47f98f3a-35fd-4921-8725-808d367c27de,9665449281,Mathews-Smith Medical Group,Neurology,VT,36427,False,True,2019-08-27
+d7719516-a4a9-4af7-98a9-9d95517ce0dd,3788959123,Jones Ltd Medical Group,Emergency Medicine,AK,07824,False,True,2021-04-07
+beb0fcfb-a40c-4140-a90d-86e5d2816024,1472792677,Lopez LLC Medical Group,Psychiatry,PA,26717,False,True,2023-08-29
+c66f655e-35ea-4328-a0a6-f133367f0566,5238984413,Taylor-Williams Medical Group,Oncology,NV,51281,False,True,2016-07-23
+e38cf431-7524-4c24-a8d0-c4e179eccbcc,6761682611,Carson-Brooks Medical Group,Emergency Medicine,MI,24996,False,True,2021-04-07
+13ee87a1-6a2a-497e-9451-2c236ad28c81,6813859581,Mcmahon Ltd Medical Group,Internal Medicine,DE,14994,False,True,2018-03-19
+67db4689-fcaa-4552-a9d6-5bf6e0d6d208,4733926613,Craig-Patterson Medical Group,Cardiology,WI,34421,False,True,2016-11-18
+ee9b9b31-27d1-419e-b73e-69dfe539839c,0717122245,"Smith, Marshall and Thompson Medical Group",Orthopedics,PR,18979,False,True,2021-10-26
+02531df3-f1e4-4e17-9f4f-67398ab96ca3,2898871135,"Floyd, Lopez and Espinoza Medical Group",Emergency Medicine,SC,68198,False,True,2024-03-11
+213db0ca-f2e1-44ed-85cb-440dbe7f7b00,5420893843,"Krueger, Moore and Walsh Medical Group",Psychiatry,MD,71286,False,True,2019-11-30
+a7c70374-9105-4662-83cb-ff49592cb706,4671674110,Hogan-Griffin Medical Group,Orthopedics,WY,54734,True,False,2020-01-24
+922d80bf-9041-4eac-87f0-a466bdbf9de9,0520620350,Daniels Ltd Medical Group,Psychiatry,AL,20504,False,True,2022-09-09
+b96806c8-0bf3-451d-8ada-9701028c5830,5524140089,Thomas-Berry Medical Group,Oncology,PA,26324,False,True,2021-11-25
+5349a99d-c205-4187-b004-73f70de9d1ca,6952748600,Wilson-Dominguez Medical Group,Cardiology,ND,69476,False,True,2025-05-06
+a89591a9-afa3-4e58-ac85-b2e373c83e02,3529577042,Phillips PLC Medical Group,Neurology,GU,55506,False,True,2024-02-14
+f248f46e-9420-4481-a5fa-2d1e3a6e86db,0635431556,Torres LLC Medical Group,Orthopedics,MN,21667,False,True,2017-02-12
+80d00dd3-198a-4f3d-96a5-cb53550c7669,7420987322,"Wallace, Reed and Perez Medical Group",General Practice,IL,83660,False,True,2024-06-28
+66025697-f0e9-4cf7-897d-276336cd4dbc,2755129756,Davis Group Medical Group,Cardiology,LA,37652,False,True,2017-07-14
+812bf8df-024d-409b-a89c-636f1f0dea89,7407195748,"Williams, Jones and Parker Medical Group",Orthopedics,NE,48176,False,True,2018-03-25
+68bb6a97-e0dd-4399-810a-3f82675ae7db,8743258065,"Ramirez, Gomez and Tyler Medical Group",General Practice,NH,10332,False,True,2019-12-04
+cc7b1ccc-e2f7-470c-9586-ccd12599cb18,9279089399,Mason Group Medical Group,Orthopedics,NY,51588,False,True,2021-08-03
+7da90e39-fb39-45a7-b39f-b5e8719b8b0b,2082714926,James-Sherman Medical Group,General Practice,AL,31708,False,True,2022-08-16
+1d42382d-a022-4b7c-9a75-ef6d07993f91,3820052965,"Douglas, Larson and Garcia Medical Group",Psychiatry,DC,89017,False,True,2023-07-16
+c0e8507c-3563-40d1-aad3-b9eb16537918,4914915808,Nunez Inc Medical Group,General Practice,WV,54670,False,True,2019-11-28
+a7c85944-b757-454b-a2ae-44178b13226f,7399521456,Schroeder-Pitts Medical Group,Cardiology,KS,91594,False,True,2021-04-19
+0c7e0815-376d-459e-84de-aa8ff62906ff,6434783215,Tyler-Miller Medical Group,General Practice,WV,64240,False,True,2022-06-29
+196b3894-0967-4d63-ac8c-a979bb297f02,6522776910,Bowman PLC Medical Group,Cardiology,SC,99083,False,True,2017-05-30
+84f9f3b9-071c-413e-8997-d36421c9cbeb,4843656667,"Fisher, Welch and Moses Medical Group",Cardiology,FM,37176,False,True,2021-06-17
+6be0b163-b6a0-40e0-a317-4ea1f8b90421,5501976385,Meyer-Heath Medical Group,Emergency Medicine,ID,01457,False,True,2022-08-21
+b47e2a70-cc82-4c1c-9c30-e11f14d13dae,3590170694,Hickman Inc Medical Group,Orthopedics,ME,68935,False,True,2016-10-25
+c41e4bfb-ab8f-4fe4-b6a8-8122a793b524,8878721736,"Price, Graham and Johnson Medical Group",Cardiology,CA,45668,False,True,2018-09-13
+863f639c-80d5-4f37-937e-77af5ca5ef0d,0107225268,"Dean, Kelly and Perkins Medical Group",Neurology,FM,84812,True,False,2020-05-07
+6079999a-218d-4ec3-ba55-796739fc5f94,9985210547,"Kennedy, Nash and Jones Medical Group",Orthopedics,MT,87665,False,True,2020-09-06
+84afb60e-b01c-403f-9f45-2589a95360c0,4502519023,Lambert-Hall Medical Group,Neurology,NY,53858,False,True,2023-09-07
+837cd84d-468c-48c5-9997-c0703edd6c29,7719432360,Moon-Brown Medical Group,General Practice,GU,64602,True,True,2019-07-22
+7287ca95-f64e-4bae-8e16-fc1e612f97d6,6057404405,Garrett-Orr Medical Group,Neurology,WV,83194,False,True,2019-06-16
+59ab0acb-21a5-4105-a3d4-64aa9333c6da,9508224965,White Group Medical Group,Internal Medicine,IN,57978,False,True,2020-11-21
+ac29c0d0-a582-4f47-af2a-87600acaa8b2,3943887815,Fletcher-Ford Medical Group,General Practice,NC,26417,False,True,2022-09-20
+eeca02d1-904a-47d1-b304-8606c6e48b43,6675605774,Perez-Smith Medical Group,General Practice,KY,71500,False,True,2023-03-14
+a1308784-f241-4a96-970f-f62593aeeff0,3089070418,"Elliott, Pratt and Bradley Medical Group",Internal Medicine,AL,64772,False,True,2019-07-03
+4d9179f5-64e4-4648-a95a-0d6fb040a1dd,9702282800,"Mack, Johnson and Martin Medical Group",Internal Medicine,HI,71599,False,True,2023-01-28
+7fcab0e4-bf94-4bb4-9469-8a246339089c,1637902305,"Arnold, Dillon and Mann Medical Group",Oncology,FM,88430,False,True,2023-02-09
+787019bf-1a20-47e6-99f4-2e0b72a99bf5,4824714040,Fowler Inc Medical Group,Cardiology,WI,33780,False,True,2022-11-11
+cb286343-aa65-447c-946c-7b0a7114f89f,3460520231,"Price, Moreno and Flores Medical Group",Psychiatry,WI,10872,False,True,2021-03-06
+1f61fa16-1168-44c1-8975-6e89759fe53f,9354488388,Gaines Ltd Medical Group,Psychiatry,FM,83394,False,True,2018-06-11
+9ce76c64-d834-4962-8905-31ebebe48c28,6111434546,Castro and Sons Medical Group,General Practice,NV,85823,False,True,2019-05-11
+c3bf4cb3-c172-47c2-9092-803ca5cc6ada,9786360025,Maxwell-Cunningham Medical Group,Cardiology,RI,11463,False,True,2023-08-04
+846d39f7-6b8b-43db-bcd8-1b6ea237bfa5,9385193871,Molina-Hall Medical Group,Neurology,MD,66865,False,True,2024-11-30
+498a3a4a-023f-493e-8455-d288a181db0d,2863319396,"Harris, Jones and Morrow Medical Group",General Practice,KS,54273,False,True,2021-10-02
+44672b4b-fde8-49db-97c1-391e9bf26388,6425188950,"Mckinney, Hunt and Burns Medical Group",General Practice,MP,89856,False,True,2017-07-31
+2ffd4659-b186-465f-8625-d21a1b1de219,6832050664,Sawyer-Jones Medical Group,Neurology,SD,57044,False,True,2024-08-07
+d6067a4c-e51c-4b05-a8a5-ef1d27e2c0a2,6351430718,Ingram-Rogers Medical Group,Cardiology,AK,90825,False,True,2023-02-02
+07b6c88a-a199-4f1c-9a37-897678738aca,5027565652,Rodriguez LLC Medical Group,Emergency Medicine,HI,81794,False,True,2016-10-23
+af1635b3-a8d3-4661-9b56-f7d541d3b701,2589739347,Cook-Rogers Medical Group,General Practice,PW,42300,False,True,2024-09-25
+ea8e5a00-b037-4a26-acad-7e79a6ee90f0,9477109932,Palmer-George Medical Group,Neurology,MA,50989,False,True,2019-09-03
+585dd28e-cb5d-46f7-a0a0-f02168c115e4,7280229479,"Zhang, Gates and Black Medical Group",Oncology,MI,37337,False,True,2019-06-29
+90f60cff-b05b-47c6-aac2-dd8cb9ac74d7,2555378196,Smith-Wells Medical Group,Emergency Medicine,WY,68658,False,True,2023-01-10
+74d06603-08b5-46aa-a928-b87aa8640dfa,4578737195,Rodriguez LLC Medical Group,Cardiology,IA,66921,False,True,2024-10-14
+324dac3c-a6ae-4e78-ab63-bf82c278ca18,3789873454,Foster-White Medical Group,Neurology,NE,76526,False,True,2021-04-06
+468dc887-b9ba-42a7-9816-a4ab70066acb,7639812631,"Shepard, Jordan and Garcia Medical Group",Psychiatry,PA,12843,False,True,2021-03-28
+31acbfb7-86c9-491f-897f-2c452d43a5dd,4924586853,"Robinson, York and Tyler Medical Group",Neurology,CA,41922,False,True,2023-04-16
+c3cec779-6007-421a-a076-2448c7fa0909,7174520587,Humphrey Ltd Medical Group,Orthopedics,NJ,42011,False,True,2024-10-30
+9b679a83-b595-4469-83a3-dea63356d64d,4348241543,Gonzales Inc Medical Group,Orthopedics,KY,75086,False,True,2023-08-13
+91ffe9b6-4371-49ad-a3e5-2c98c2964846,3766070810,Brown LLC Medical Group,Neurology,VI,44012,False,True,2021-07-04
+461f3dd4-bb84-4805-b262-14feed791ece,7461597595,"Boyer, Williams and Blackwell Medical Group",Orthopedics,SD,61665,False,True,2021-01-27
+6f906bec-1502-4aec-8ef8-d167faa99162,5226131619,Horton LLC Medical Group,Cardiology,MT,16679,False,True,2022-05-24
+9d7aa51d-a0d1-4f81-b937-f2fdc65bdccb,3076574706,Lopez LLC Medical Group,Internal Medicine,MH,54405,False,True,2023-08-29
+bced80bb-7abf-49f4-9288-f9394dbcf454,2031545138,Klein Group Medical Group,Emergency Medicine,SD,07845,False,True,2024-06-16
+e6d04005-c279-443c-9c91-f5da31db9a1a,8284949019,Calhoun-Hensley Medical Group,Neurology,VI,18007,False,True,2022-09-13
+b233fdec-a19b-4b0f-81ac-22dac02abc56,5380484573,Hart Ltd Medical Group,Neurology,WA,56506,False,True,2024-04-24
+a477830a-d33a-42e9-8907-61ad45a27e7e,7757674142,"Espinoza, Hudson and Medina Medical Group",Neurology,MA,50337,False,True,2023-05-09
+d4e1cacf-8049-41e9-b209-5a70e85ec27c,6703229069,Christensen-Nicholson Medical Group,Oncology,CA,99893,False,True,2019-12-03
+610f5cb0-ef32-4054-bcc5-9ae13d8816ab,7098322026,"Roberson, Collins and Hicks Medical Group",Neurology,DC,39059,True,False,2024-07-14
+4a370ee6-3c3f-44fb-9399-ec42c981189f,6575198112,Hunt PLC Medical Group,Emergency Medicine,PA,62604,False,True,2023-08-25
+9a447dba-61b3-4fd4-b378-d1bb4bbb9ecc,7216110246,Best-Barron Medical Group,General Practice,PA,39170,False,True,2018-06-22
+8da4e4df-001d-4e3b-ac03-e996841b0961,0875971609,Escobar Group Medical Group,General Practice,ME,27420,False,True,2019-03-13
+b839e34c-1664-460e-abeb-f415f9e9aa9d,3148543235,Haynes-Smith Medical Group,Internal Medicine,ND,84502,False,True,2024-03-09
+686f0e95-a2a7-4657-9de8-101bcbeadb9d,0761312576,Baldwin Group Medical Group,Cardiology,IN,33612,False,True,2019-03-06
+b23345c8-77e7-42d5-a7b6-56cc8dea5be0,8649934650,"Johnson, Edwards and Roman Medical Group",Internal Medicine,DE,08910,False,True,2025-01-08
+a57d8a3c-1018-4b49-991e-ec4cc6dbe64e,2941289937,Duarte-Trevino Medical Group,Internal Medicine,VA,57044,False,True,2017-10-09
+4c4ae2ae-1451-44f5-9cc2-87a5e27279c6,7935499967,Maldonado-Sawyer Medical Group,General Practice,MD,77106,False,True,2018-09-20
+cb487316-33f0-4b57-93a4-dcf5c400bf7b,8500583880,Kim-Bryant Medical Group,Internal Medicine,TX,10909,False,True,2019-05-02
+9b6c627f-bf81-415a-92ca-5a45aa1c28ac,0762752022,"Edwards, Hayes and Johnson Medical Group",Internal Medicine,VT,94724,False,True,2017-09-01
+c23d1b68-9ac1-46ad-85bc-f94b9c9901b6,3538172813,"Fletcher, Cruz and Fletcher Medical Group",Orthopedics,CT,10401,False,True,2023-12-20
+9067cad3-a884-4d77-9764-fca12415ed94,0938731573,"Walsh, Hernandez and King Medical Group",Psychiatry,NY,36197,True,False,2016-07-01
+d58e693f-ddd5-4acb-9899-df48e56bfafd,2008123631,Villanueva-Morris Medical Group,Psychiatry,KY,98048,False,True,2024-07-22
+f44fef32-957e-4248-b6d9-493e8593464c,0395044330,"Thomas, Reynolds and King Medical Group",Orthopedics,MA,58201,False,True,2023-08-07
+0f9832bc-9aad-4d05-8daf-cd14dd9fc5d1,0820413876,"Perez, Clarke and Farmer Medical Group",Neurology,MO,91635,False,True,2018-05-10
+f334561f-73f8-4e7c-aa7b-ecffe9d83f39,5251320213,"Porter, Ponce and Brooks Medical Group",Psychiatry,GA,86617,False,True,2019-07-03
+e2c80f50-ff80-403f-9085-89806acf8801,9243185367,Harris-Adams Medical Group,Internal Medicine,AR,40545,False,True,2021-08-02
+7a93ca2a-c367-4ce6-a7b0-c70752a401bf,3673786184,Sherman Inc Medical Group,General Practice,MS,70680,False,True,2020-01-15
+3e9b2d9b-c732-452f-875f-53428d16f38f,8027811474,"Bates, Moore and Salazar Medical Group",Internal Medicine,VT,05470,False,True,2018-11-17
+9e910503-811f-4a97-a11c-f8b8911563e9,1187637125,Bailey-Hanson Medical Group,Orthopedics,PA,17762,False,True,2016-09-09
+67791a7c-e4ea-4112-8f2d-05229057ede5,1798913418,"Smith, Smith and Graham Medical Group",Emergency Medicine,WY,60623,False,True,2022-08-21
+6d208353-4041-473d-9e69-641827f30755,2226765181,Brown Ltd Medical Group,Orthopedics,UT,84119,False,True,2019-11-16
+a9af1a30-7888-4e7c-9697-bfc154180965,7991309442,"Holder, Hoover and Richards Medical Group",Internal Medicine,PW,42216,False,True,2018-02-13
+54ffde13-3f88-4a85-ab6d-dab2e77a067e,4190364855,Velez LLC Medical Group,Neurology,AR,61283,False,True,2017-04-15
+551df68e-6504-450b-a136-0fe4d555b4b3,6217446648,"Rodriguez, Anderson and Anderson Medical Group",General Practice,MD,61576,False,True,2020-05-29
+da773c66-a30f-418f-a0c7-cdba3e1be5eb,6659265004,Scott LLC Medical Group,Orthopedics,VA,23502,False,True,2020-03-27
+2ec992ac-6784-4bb3-85a0-0a9fdeb569a7,8949497487,Collins LLC Medical Group,Neurology,PW,29148,False,True,2022-06-07
+fee064a0-9dfe-44de-8e1c-8c65b52ae3a6,9900671320,Lawrence Inc Medical Group,Orthopedics,CA,48418,False,True,2021-12-14
+c608ca8f-fac2-4fe2-a8d9-d62f74fba82e,0973611893,"Hall, Sherman and Lewis Medical Group",Internal Medicine,NC,52909,False,True,2023-11-13
+fef37365-74ad-42e6-9f26-4f9af3a89c5c,9723045366,Nguyen-White Medical Group,Orthopedics,KS,54623,True,True,2025-05-14
+91df11a7-8c4c-4d47-86d4-032ba1666218,7936890391,Short-Warner Medical Group,General Practice,MN,37085,False,True,2020-05-26
+a5ca0bf0-cc2e-4262-92fe-4d9ab946ed5e,8203054941,Watts and Sons Medical Group,Psychiatry,HI,66691,False,True,2025-02-21
+54e9910b-358c-454b-bd94-ca947406283d,7007491942,Hendrix-Wallace Medical Group,Oncology,DE,58529,False,True,2018-05-31
+e1759ef8-352e-4542-abfe-0a2fa07c3d0b,7985703893,Murphy Group Medical Group,General Practice,DE,17593,False,True,2021-10-06
+73ceb3fe-696d-4d76-a565-39735e17f847,6467618632,"King, Murphy and Sanchez Medical Group",Emergency Medicine,OK,21082,False,True,2018-06-07
+1f54faf8-b6d0-483a-887a-ddc339fb2699,8967117360,Williams Inc Medical Group,Psychiatry,TN,42572,True,True,2019-08-27
+6c4e69e3-4b4c-4aeb-acd9-4cff08302563,1792041360,Lucero-Pierce Medical Group,Neurology,CA,60565,False,True,2018-07-29
+44fe715e-1a63-4bc6-8130-7e986ea7f7aa,4732207564,Lara-Alvarez Medical Group,Cardiology,TX,56594,False,True,2018-01-30
+98e33eed-e731-408f-b247-f4dda5f21897,9013791036,Grimes-Daniels Medical Group,Psychiatry,PA,83524,False,True,2019-03-19
+5425876c-f8bb-4969-bf58-2b5d9ee68d42,9845724436,"Carr, Larson and Barber Medical Group",Emergency Medicine,IL,56698,False,True,2024-01-20
+09092a3f-8283-4611-9fc5-021908b7271c,9016781349,Gibson-Shelton Medical Group,Orthopedics,MD,52103,False,True,2017-10-29
+b652cf5d-c9b6-478a-b4e9-cda3ab371471,8683446568,Young-Morris Medical Group,Emergency Medicine,NH,42305,False,True,2021-03-25
+8230a731-bc9b-4573-abd0-51d6016f43bf,9513983764,Wright-Page Medical Group,Oncology,MO,51124,False,True,2025-03-14
+a6867067-1980-47be-af5c-6847d9f167b3,3665405862,Norton LLC Medical Group,General Practice,KS,19057,False,True,2022-10-26
+fbac173b-e3e5-4276-afd4-7830a1589572,0512395146,Carpenter Ltd Medical Group,General Practice,MT,82413,False,True,2018-12-13
+e38018a8-7e21-4f58-8bb3-0408e571adb5,0722829793,Valencia Inc Medical Group,Emergency Medicine,CA,85554,False,True,2025-04-10
+8bdae003-9526-4bef-bd16-ef376a196b50,8568953395,Kim PLC Medical Group,General Practice,CO,49037,False,True,2017-03-12
+ef29be5e-a32b-4efa-9b78-2c8137986df5,8286225931,"Alvarez, Jennings and Mcgee Medical Group",Neurology,HI,70513,False,True,2023-05-31
+97a71607-294c-4d68-bac8-fbc4a259185e,8936127165,"Guerrero, Brown and Hamilton Medical Group",Orthopedics,CT,61374,False,True,2017-04-20
+9764e2f5-946c-4847-a7be-62242461ae50,1541924937,Ramirez-Smith Medical Group,General Practice,ID,05058,False,True,2019-06-15
+bdd1c3f6-3dfe-43ee-b791-3a2dc59e2e56,2114377554,"Ramirez, Meyer and Anderson Medical Group",Psychiatry,TN,98050,False,True,2017-03-07
+b1e7211e-188b-4e60-92ea-6d619719a3f6,5102317766,Oconnor Group Medical Group,General Practice,OR,11139,False,True,2016-07-07
+1e333f37-88b4-4698-8748-0ca62bafb6d6,8985271476,Mcfarland-Smith Medical Group,Psychiatry,UT,24501,False,True,2018-05-07
+d6414a32-46d8-42c7-b36c-cc9b4f4c78c6,8319087445,Mendez PLC Medical Group,Emergency Medicine,NV,29594,False,True,2020-08-25
+a67d27bb-4e16-4515-bd23-665f17e9f2a1,9940683432,Weaver PLC Medical Group,Cardiology,AS,98194,False,True,2022-08-15
+f220b121-af9d-4701-a57f-ca60abb641ae,2372478388,Leonard and Sons Medical Group,Psychiatry,TX,82585,False,True,2023-11-11
+074139d0-fe09-4ef6-b94e-d9c2cbb49842,0067142107,Butler PLC Medical Group,Internal Medicine,IA,99291,False,True,2024-05-05
+db8fa95f-7eef-4f98-aac4-af21fe2fcbf4,5825407919,Rodriguez-Moore Medical Group,Internal Medicine,TN,32533,False,True,2022-08-10
+f66dd119-4f81-4412-8c96-5d2e1e6efd9a,9909684941,Gilbert Group Medical Group,Oncology,PR,21592,False,True,2021-03-23
+053fad20-bc99-4e35-a700-50b10608ac78,9567411733,Durham Ltd Medical Group,Psychiatry,AR,32426,True,True,2016-10-18
+22c1494e-6ef7-49d8-a568-84d69827c62b,8015645280,"Matthews, Dickerson and Mckenzie Medical Group",Psychiatry,MA,10588,False,True,2024-11-05
+0fe66485-3d42-4346-b67d-cee436d8d4c2,0473250756,Thompson Ltd Medical Group,Orthopedics,CA,66563,False,True,2023-11-03
+9fd64a70-88f7-4bb9-83de-a2fd88e98cea,4912597923,"Thomas, Robles and Peterson Medical Group",Oncology,DE,57632,False,True,2023-06-22
+b1150ab7-ae04-4433-8f61-3943c2091516,1913609652,Tran PLC Medical Group,Orthopedics,ME,89403,False,True,2021-04-24
+7e230d33-773c-45c7-9eb8-ee2970f24fc4,8651774178,Murray PLC Medical Group,General Practice,VA,89265,False,True,2024-08-19
+bf27311e-090f-4b44-bbb7-d90d02a70486,3794708316,Good-Moran Medical Group,Neurology,RI,24980,False,True,2018-05-16
+6302ee32-4c3a-4543-bbe9-099c135c82d7,8205694037,Pugh LLC Medical Group,Psychiatry,MS,27919,False,True,2019-02-12
+521c3951-8a56-4a3c-a7ea-b0e1da8d963c,4913894833,Ray LLC Medical Group,Internal Medicine,UT,99097,False,True,2020-09-13
+c900e689-79a0-4a37-a32e-1e2bcb6fdec0,9437784068,Banks-Smith Medical Group,General Practice,RI,35728,False,True,2023-04-13
+e658a2a5-2641-4230-bdda-db3f636d61ae,4215904482,"Carr, Mann and Elliott Medical Group",Oncology,AL,22714,False,True,2020-01-27
+9eb81dd9-3e13-48ec-946f-5a69dea865a0,7403982036,"Knox, Johnson and Garcia Medical Group",Cardiology,ME,44575,False,True,2023-11-16
+dafab9d7-07fe-4e13-8880-fefbbcbe46c0,4401787252,"Massey, Harvey and Mcfarland Medical Group",Neurology,PA,54150,False,True,2019-02-14
+3e3fbd81-c532-41dc-a70f-67fa6c2d02bc,3200168512,Reed and Sons Medical Group,Internal Medicine,SC,84524,False,True,2016-06-20
+94161512-ac41-4c21-aefe-f7230b887d2c,3354171475,"Wilson, Hoffman and Alvarez Medical Group",Cardiology,ME,19014,False,True,2018-03-02
+ba1cfbd8-d00c-44a7-9e09-d3e52822257d,9061188193,"Flores, Palmer and Farley Medical Group",General Practice,TN,92003,False,True,2020-04-29
+2843374a-c966-412a-8a68-37bf78968343,6134923792,Durham Inc Medical Group,Emergency Medicine,KY,56937,False,True,2017-05-03
+5c36ed00-9372-4419-9b9b-1eb394209d87,5468759580,"Mann, Anderson and Powell Medical Group",Neurology,VI,56968,False,True,2022-11-02
+8fe80dd7-5ae9-4330-b8e8-dac24f7474c4,0541664821,Carey PLC Medical Group,Orthopedics,UT,38317,False,True,2024-03-09
+2403e4fd-d7f7-4b21-b051-27f062911874,1894710642,Freeman Ltd Medical Group,Psychiatry,CO,34502,False,True,2024-11-21
+74bfab07-103f-4622-b51f-f6a7284a33f2,4934111621,"Smith, Miller and Wright Medical Group",Psychiatry,OH,53728,False,True,2021-03-06
+c0cb740f-1768-4207-8f48-7e3cce6c66ad,6302319536,"Keith, Williams and Proctor Medical Group",Psychiatry,AR,07562,False,True,2020-05-02
+60b698e5-a2a2-45b0-a42d-7ad9e022a20c,4048526590,"Bailey, Richards and Garcia Medical Group",Cardiology,OH,82896,False,True,2019-07-23
+192905fb-6949-4514-ba93-9baa76b403cc,9163929940,Kelley-Peck Medical Group,Emergency Medicine,KS,56394,False,True,2021-07-28
+bbc52476-b12b-4965-a1d3-d43082016274,6740946197,"Johnson, Lee and Johnson Medical Group",Internal Medicine,MH,86554,False,True,2024-12-09
+ae759a11-ad9c-4be3-a55c-2fa84bbdd9d4,3667153763,Gray-Sanchez Medical Group,Psychiatry,OK,08741,False,True,2018-04-28
+06be49a2-e5d4-4a7e-8008-52bc7ff30661,5727985448,"Shelton, Davis and Walters Medical Group",Cardiology,NJ,19929,False,True,2023-11-22
+727ba58f-8071-4673-813c-416338c876ed,2459696661,Morgan-Knox Medical Group,Emergency Medicine,NV,43952,False,True,2021-05-08
+5a3209cf-7ff4-457f-a067-43cef5302ed5,6242230030,"Austin, Gibson and Cook Medical Group",Emergency Medicine,OR,59943,False,True,2018-08-18
+dce41533-bb5b-4ee1-9e85-7bb1d14b88af,7182914941,Bailey Group Medical Group,Neurology,SC,73237,False,True,2021-01-28
+d9c58d3a-00eb-4d41-9fa8-154418c64adc,6778422755,"Kelly, Perez and Young Medical Group",Oncology,WY,66667,False,True,2019-03-07
+e026bf52-339d-4398-957d-94891d42d900,8485336092,Harris-Jensen Medical Group,Neurology,MO,51490,False,True,2018-03-21
+378ad184-5e33-4acb-9d8b-8861ff0e06da,8900576455,Cantu and Sons Medical Group,Internal Medicine,MI,16700,False,True,2023-08-02
+9abf4588-c452-4973-a4c5-8ba8e2500107,3275691171,Hobbs PLC Medical Group,Oncology,AK,45407,False,True,2018-05-10
+cf497fb4-696c-4390-ac63-ac3d8ee39236,1675935257,Perry Group Medical Group,Orthopedics,KS,98819,False,True,2024-12-05
+ba88cc25-1746-41c9-a8f7-a5f6f6cee3c8,6289687900,"Lopez, Williams and Mathis Medical Group",Cardiology,MN,05293,False,True,2022-12-17
+40de464c-a2f6-449c-bf77-a9bdfd4b1feb,1981152658,"Smith, Perez and Wilson Medical Group",Internal Medicine,IL,61576,False,True,2022-07-14
+e4e35a2d-dc0b-44e7-aaea-9c5531f9c8a5,2746462125,"Foster, Michael and Howard Medical Group",Oncology,WI,69373,False,True,2019-08-30
+c61b5492-bf3d-4d5d-9b5f-0f03286628af,3782635383,"Peters, Richards and Campbell Medical Group",Neurology,AK,93634,False,True,2023-03-08
+b0343a09-449d-410d-91eb-73fc2f2e3ac4,1334190229,Perez PLC Medical Group,Emergency Medicine,DC,86652,False,True,2021-04-02
+8392482d-1ea3-4d14-bbf7-70f152c54325,2569406168,Griffin-Ward Medical Group,Cardiology,NM,07046,True,True,2017-06-22
+0d273a31-23e7-4ecc-a63f-493b21b6b1b3,8305400925,Sullivan-Simon Medical Group,Emergency Medicine,IA,91724,False,True,2024-02-17
+3aeefd15-f234-4e79-9f3f-170f7c775dcb,5589560202,"Orr, Norman and Pineda Medical Group",Oncology,AL,52566,False,True,2016-07-27
+14971560-131d-4bfb-b10d-d9ef8fb1a99b,3984165322,Tanner-Turner Medical Group,Internal Medicine,WY,14841,False,True,2018-02-18
+ba6a4334-4cb1-41f1-bcd1-7428dfd206fc,6232277685,Martinez-Ward Medical Group,Oncology,NY,63131,True,False,2020-06-21
+f80a394e-7022-46a5-8f8f-7fc6ac05e10a,3713081234,"Henderson, Odonnell and Clark Medical Group",Internal Medicine,SD,56725,False,True,2019-01-01
+8df667b0-8a4c-47e8-a252-c2f8c0bc9ef8,6007252742,Frazier LLC Medical Group,Psychiatry,KS,12815,False,True,2018-05-30
+5141176f-56f1-4bd3-8eef-0d6b9e42d647,4951232618,"Garcia, Mosley and Wood Medical Group",Neurology,AR,43446,False,True,2017-03-23
+76ba8809-e544-4c8a-ad63-1bb75b921bdd,7299778982,"Ward, Marshall and Cobb Medical Group",Cardiology,GU,45802,False,True,2021-08-11
+2b861cad-323d-4953-8116-7515cd80dbc6,1863405303,Malone Ltd Medical Group,Psychiatry,NC,28760,False,True,2023-01-15
+6b9e8487-5fca-44b3-9823-f565a44276b4,7815597593,Smith-Peterson Medical Group,Cardiology,GA,57059,False,True,2018-05-30
+1d5ef7e9-ac40-4fe2-be29-5fad394ad318,8639241400,Rowe-Reyes Medical Group,General Practice,OH,62848,False,True,2023-03-11
+155ac0c0-9371-4eed-8b2a-8c8eeaf2848d,9764742425,"Rollins, Jones and Parrish Medical Group",Psychiatry,MI,40205,False,True,2017-02-03
+c32f4011-e97a-423b-805b-7c74bc14e9fe,7774735408,"Gomez, Austin and Sweeney Medical Group",Internal Medicine,MN,53286,False,True,2022-08-07
+8bd5f78a-851c-4dd6-9581-bec3ad427ef1,7551365105,Rosales-Woods Medical Group,Internal Medicine,FL,07320,False,True,2024-08-31
+cc2a4b42-4464-4118-8f01-b3b89c9caf4e,7011725584,Evans Inc Medical Group,Emergency Medicine,NV,41409,False,True,2016-12-31
+e2a55a49-1f2c-4ce5-baf6-5a2e4df6ebae,0588320438,Melton-Brown Medical Group,Oncology,KY,26568,False,True,2017-03-16
+2ae4109e-ed6f-472b-8b7c-76b5d516da70,2456712604,Mccormick-Walker Medical Group,Cardiology,FL,69285,False,True,2020-08-07
+3da1acab-188a-4c4a-af90-9b345cedcc0c,5121173256,York PLC Medical Group,General Practice,NY,83388,False,True,2017-01-28
+08cecef0-1a2d-4e82-b840-a2fa6d8afaa8,6374262636,Dunn-Miller Medical Group,Psychiatry,MA,12431,False,True,2019-07-12
+4462c73c-b06a-44bc-966a-e9c04925638a,5052014749,"Hartman, Salas and Smith Medical Group",Emergency Medicine,TX,99157,False,True,2020-01-28
+c13bea33-f4fc-4616-bde3-34aeb492eb1f,4655657604,Armstrong-Smith Medical Group,Emergency Medicine,SD,52561,False,True,2016-05-31
+9dd57b86-c459-4c20-9f6f-1797be4f0796,1192290940,Barrett Inc Medical Group,Orthopedics,WI,04174,False,True,2018-06-25
+5bc6eff7-1a8b-4753-ba79-8984f0f77928,4431199071,Richard Group Medical Group,Cardiology,NY,83721,False,True,2023-10-10
+e05adc56-4566-411b-8161-cebae24fd90f,8791354260,Cole Inc Medical Group,Emergency Medicine,OR,41243,False,True,2021-03-06
+e49acef4-4510-4128-85bb-18a962ecd603,3840476972,Baker-Day Medical Group,Internal Medicine,NJ,08507,False,True,2017-10-29
+a6c211f0-5eae-4dc0-bf32-bccea4fd9599,5361423741,"Gaines, Byrd and Kaiser Medical Group",Internal Medicine,PR,14760,False,True,2020-12-18
+48687b7d-ce83-4036-8e69-d7e45f123d79,9317943256,Holmes PLC Medical Group,Oncology,HI,38274,False,True,2024-03-05
+3d3f5089-2449-460f-8922-807613c0cbf2,8319260119,Mitchell Group Medical Group,General Practice,NC,08770,False,True,2023-05-27
+04382695-2761-4799-bcae-d26c4bb1b6db,6267612293,"Harper, Williamson and Marsh Medical Group",Neurology,NJ,47348,False,True,2023-01-09
+4e29cd1b-2003-473e-8429-30d48ddb2777,3660480000,Johnson-Moreno Medical Group,Orthopedics,MT,16909,False,True,2020-04-21
+d87d8a34-82c4-46c9-9831-aa7c6ed9eaf0,9053200299,"Bennett, Fletcher and Grant Medical Group",Psychiatry,NH,96819,False,True,2017-05-12
+49db30cf-c73d-46b8-8790-72a6a8781a71,5150940150,Murphy-Owens Medical Group,Orthopedics,DC,74627,False,True,2021-11-23
+ea42e4b6-aedb-4f5c-a34d-a8f021d93958,0330260363,Richardson-Jones Medical Group,Orthopedics,VA,42837,False,True,2018-11-07
+d3375d1e-df78-4b59-8384-913675d89706,4183494002,Jones and Sons Medical Group,Emergency Medicine,ME,61165,False,True,2021-10-22
+08ed236a-653b-4f62-829c-556cc3887c9f,5731532641,Schultz-Payne Medical Group,Oncology,VT,83901,False,True,2019-12-29
+0a3c7394-16ef-4c3e-bda5-d3c95cb63d0f,6263803803,Thomas LLC Medical Group,Orthopedics,MT,32420,False,True,2024-05-01
+5a850b4b-1405-49e0-9b4b-5840cab4b438,4882500557,Perez and Sons Medical Group,Cardiology,AZ,58501,False,True,2021-03-05
+a7f902e5-8c11-48fd-a722-4392a29e3668,9433755302,Gordon-Lloyd Medical Group,Orthopedics,WI,61965,False,True,2020-01-14
+2f4a1056-942d-41aa-9d60-d4d3684b373a,4318520492,Sanders-Lee Medical Group,Neurology,WI,33902,False,True,2023-07-25
+2dec852e-3e51-4249-8478-94e43081098a,5250657858,Stewart LLC Medical Group,Oncology,MT,99689,False,True,2021-10-06
+b90baea8-43e9-4cef-b5ea-647cc827cffd,2210285080,Taylor-Scott Medical Group,General Practice,MP,94365,True,False,2020-08-23
+5ace5c8f-7658-46b4-a4ad-aa6f7eaeaf9e,2521790231,"Hall, Bright and Flynn Medical Group",Neurology,GA,03704,False,True,2016-09-21
+b12e2364-dff8-4c1d-b106-dc97fa5d259b,1514444414,Martin-Hernandez Medical Group,General Practice,CA,76065,True,True,2017-10-13
+68bde9b1-8550-4771-ba33-c0211eaeb2d6,0571555918,Wilson PLC Medical Group,Internal Medicine,PA,31085,False,True,2016-09-06
+c757eb2e-06de-45ea-abc5-9d54f800abfc,3173627427,Clark-Todd Medical Group,Oncology,MD,03368,False,True,2023-03-08
+7da02b23-8aa4-43c8-a894-19c6ee977a1b,1283068991,"Barr, Buchanan and Clark Medical Group",Orthopedics,MP,22575,False,True,2024-04-15
+3dac278c-861e-4e2d-a6a1-6689da54674c,7132466530,Whitaker and Sons Medical Group,Cardiology,GU,05987,False,True,2021-03-19
+6c162a05-72a0-4383-ab20-d7c1336bc2e6,6609599247,"Horton, Nguyen and Smith Medical Group",Internal Medicine,NM,20862,False,True,2025-04-10
+8475e602-ca32-4563-9a86-e55ab077f051,5463996550,Morris-Oneal Medical Group,Cardiology,IA,20886,False,True,2017-12-01
+963d90f7-1ba0-423d-8fde-026a4acd8a26,3803458960,Paul Group Medical Group,Orthopedics,IA,91617,False,True,2019-06-15
+103eafff-2279-457c-a806-7282dfc0a6b7,7561080242,Martinez Ltd Medical Group,Cardiology,VI,57084,False,True,2019-03-03
+5a04c57c-9294-4ec1-bcaf-0b6a79f983c6,8841876508,Grant Group Medical Group,Cardiology,NM,12558,False,True,2018-08-13
+c1c65ceb-f55b-4e52-bcb9-8f4df5b46898,2323888776,Foster-Rhodes Medical Group,Neurology,WV,95332,False,True,2021-12-17
+dac00f5f-5bb4-40df-a82d-5069fbd1f90a,1037339614,"Ortiz, Murray and Ramos Medical Group",Psychiatry,NV,99341,False,True,2023-07-17
+3d1a5408-cd15-4f4e-ab50-ac97c7b8c8bc,3417964140,West-Anderson Medical Group,Psychiatry,ME,10859,False,True,2019-06-28
+56c4e171-9ac4-4364-a663-890aef43ade9,9043885087,Cole Ltd Medical Group,Cardiology,DE,28344,False,True,2017-01-13
+fc498eae-8e96-4091-a38e-bb28337438c4,7908613033,"Ferguson, Smith and Perkins Medical Group",Psychiatry,MH,48581,False,True,2016-07-26
+737de8f1-5c0a-4e78-99dd-b79304e47946,5260254083,Cunningham Ltd Medical Group,General Practice,IA,81032,False,True,2021-04-27
+60d76295-f29f-4e68-b3c9-159fcf3fd6ce,5153918356,Lawson Ltd Medical Group,Psychiatry,OH,66039,False,True,2017-09-11
+fec78af6-faf2-4f33-bdff-16f0b4519e85,0577609897,Edwards-Sanders Medical Group,General Practice,MT,54042,False,True,2025-02-06
+3d91c470-1e9a-4df1-8d8a-b9601162b535,4924773642,"Woods, Williams and Burton Medical Group",General Practice,FL,98628,False,True,2022-07-28
+9c6378e4-9f41-4ae7-87c6-8986b728cfb8,8121718216,Smith-Johnson Medical Group,Internal Medicine,DC,79119,False,True,2023-08-31
+446b03d1-599b-421a-b619-24f81ec49214,8183694317,Baird and Sons Medical Group,Neurology,CA,05366,False,True,2021-01-18
+f39364cf-9411-424c-bdff-d335d011b64d,5076401018,"Robinson, White and Patel Medical Group",Orthopedics,IL,90701,False,True,2019-09-10
+f014d313-5b5f-47a9-819b-f9df76085636,4609370686,"Grant, Bell and Ingram Medical Group",Emergency Medicine,MP,41237,False,True,2021-12-28
+306ca4ce-3d6f-40c8-a3c6-3b62821dd2bb,4300910179,"Neal, Watkins and Garcia Medical Group",Emergency Medicine,DE,10160,False,True,2017-06-28
+03bbcf32-70d3-46fb-851d-6e61425a70bf,6462519488,"Ward, Henry and Jones Medical Group",Neurology,TN,51531,False,True,2022-06-22
+3f204db2-ed40-4a28-b6df-fe5d9cf4a5d3,3614415574,Delacruz-Mckinney Medical Group,Cardiology,UT,19399,False,True,2022-03-01
+8e090091-c7c0-4d01-8bf8-ec77e5395b3b,4958698222,"Franklin, Duran and Villa Medical Group",Neurology,MO,43056,False,True,2020-09-05
+0a37d491-f2a6-4ac7-ab9a-a6fb587b14b3,9342479566,"Hernandez, Clarke and Villarreal Medical Group",Cardiology,DC,25463,True,True,2021-03-23
+fa66c5cd-dd63-4672-89a7-d0b22ac4e3ef,1836719571,Bush Ltd Medical Group,Oncology,FM,18307,False,True,2020-09-02
+17c225e1-25ab-45c7-a2a5-19a5554d9b74,0240134616,"Jones, Stanley and Marquez Medical Group",Orthopedics,FL,62746,True,False,2021-09-18
+bcd5b1c7-05c9-4502-9d92-398782712db9,5540577638,Davis-Stuart Medical Group,Neurology,CA,70512,False,True,2024-05-21
+d4ba91a0-30a0-42aa-a68f-3650aee69daf,9578226205,"Spence, Thomas and Johnson Medical Group",Emergency Medicine,FL,45948,False,True,2020-05-31
+1d92dd0d-0b65-4b93-9e8a-c017497fe846,8563448423,"White, Dunn and Mendoza Medical Group",Oncology,MA,58324,False,True,2017-05-25
+3bca9be1-baed-4d36-9d94-ff5eeb4d26d8,1138846708,Bryant-Lutz Medical Group,Neurology,VT,55844,False,True,2019-10-18
+9eaac99f-4e0a-4667-b4d2-3798e706bcd5,5048577770,Andrade-Phillips Medical Group,Emergency Medicine,HI,71327,False,True,2019-04-27
+51c0aabc-af6a-4ea3-9d49-ff5e787cf084,8352222197,Russell and Sons Medical Group,Internal Medicine,OR,86954,False,True,2018-10-17
+bb1537c8-3701-4917-80e0-18fd60928d40,0460525265,Choi and Sons Medical Group,Emergency Medicine,WV,92341,False,True,2023-10-16
+0fd9573a-41f6-40b8-a328-a7a6b230e4bf,9278713296,"Jones, Gutierrez and Miller Medical Group",Neurology,MA,82957,False,True,2017-03-18
+df6ab203-f592-420c-93d6-05935618fb9f,8159473416,Evans LLC Medical Group,Orthopedics,MD,14427,False,True,2024-12-31
+f1eea6c4-2473-457e-b213-ca9b2f6f6854,4029810357,Roberts-Avila Medical Group,Emergency Medicine,MS,73184,False,True,2023-07-12
+1b00879b-41f3-44b2-af05-ac46970fc02a,8493589714,"Robertson, Schwartz and Palmer Medical Group",Internal Medicine,OK,24428,False,True,2019-09-12
+db2ad835-38a2-4ef1-b5a9-0c2c1eebabcd,0789920948,Moses-Johnson Medical Group,Emergency Medicine,AZ,14794,False,True,2018-03-03
+df588fd6-0300-4790-8c62-9eab9ede09ce,9861747343,Flowers-Lopez Medical Group,Cardiology,NE,18130,False,True,2020-12-18
+cb384b23-e66f-4bea-bde0-3eba747444af,3872790265,Martin and Sons Medical Group,Internal Medicine,FM,90411,False,True,2019-06-06
+c079f45b-9c5b-400e-abde-d0da5bda8d3a,7869163973,Jackson Group Medical Group,Emergency Medicine,MP,29431,False,True,2019-11-12
+dbd11c50-0d7f-447d-8f4e-e4c94ee48b8e,3889501108,Robinson Inc Medical Group,Emergency Medicine,TX,87835,False,True,2022-05-02
+17c1050e-6205-4d89-919a-ca48c9d3e938,4825206619,Thompson-Kemp Medical Group,Neurology,CO,99789,False,True,2023-09-21
+da036419-bd4e-4404-a9f9-e7f76554306a,7842029766,Peterson PLC Medical Group,Orthopedics,FL,14965,True,False,2019-02-03
