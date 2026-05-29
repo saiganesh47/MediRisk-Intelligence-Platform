@@ -1,0 +1,54 @@
+{
+  "patients": [
+    "patient_id",
+    "first_name",
+    "last_name",
+    "dob",
+    "gender",
+    "zip_code",
+    "state",
+    "insurance_type",
+    "insurance_id",
+    "chronic_conditions",
+    "created_at"
+  ],
+  "providers": [
+    "provider_id",
+    "npi",
+    "name",
+    "specialty",
+    "state",
+    "zip_code",
+    "is_flagged",
+    "license_valid",
+    "joined_date"
+  ],
+  "claims": [
+    "claim_id",
+    "patient_id",
+    "provider_id",
+    "service_date",
+    "submitted_date",
+    "diagnosis_code",
+    "procedure_code",
+    "billed_amount",
+    "allowed_amount",
+    "paid_amount",
+    "claim_status",
+    "is_duplicate",
+    "is_fraud",
+    "fraud_type",
+    "fraud_signals",
+    "ingestion_ts"
+  ],
+  "transactions": [
+    "transaction_id",
+    "patient_id",
+    "transaction_type",
+    "amount",
+    "transaction_date",
+    "channel",
+    "is_anomalous",
+    "ingestion_ts"
+  ]
+}

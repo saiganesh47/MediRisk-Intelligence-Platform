@@ -221,7 +221,7 @@ def ingest_transactions(spark: SparkSession, source_path: str, bronze_path: str)
 
 
 def _log_stats(name: str, df: DataFrame) -> None:
-    total       = df.count()
+    total       = df.count() 
     quarantined = df.filter(F.col("_dq_status") == "QUARANTINE").count()
     logger.info(
         "[%s] Total: %d  |  Quarantined: %d  |  Pass rate: %.2f%%",
