@@ -5,6 +5,11 @@
 
 ---
 
+## 📸 Live Dashboard Preview
+![MediRisk Dashboard](dashboard_screenshot.png) 
+
+----
+
 ## 📐 Architecture
 
 ```
