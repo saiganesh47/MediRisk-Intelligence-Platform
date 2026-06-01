@@ -9,6 +9,11 @@
 
 ---
 
+## 📊 Pipeline Infographic
+![MediRisk Pipeline](pipeline_infographic.png)
+
+---
+
 ## 📸 Live Dashboard
 
 ![MediRisk Dashboard](dashboard_screenshot.png)
