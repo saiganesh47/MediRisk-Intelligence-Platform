@@ -2,13 +2,18 @@
 
 > **End-to-end PySpark + Snowflake fraud detection & patient risk scoring pipeline**  
 > Finance × Healthcare | Delta Lake | MLlib | Snowpipe | Dynamic Tables | Snowpark | Streamlit
+---
+## 🏗️ Architecture
+
+![MediRisk Pipeline Architecture](architecture_diagram.png)
 
 ---
 
-## 📸 Live Dashboard Preview
-![MediRisk Dashboard](dashboard_screenshot.png) 
+## 📸 Live Dashboard
 
-----
+![MediRisk Dashboard](dashboard_screenshot.png)
+
+---
 
 ## 📐 Architecture
 
